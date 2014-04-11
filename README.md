@@ -18,7 +18,7 @@ Then add django-tdd to your INSTALLED_APPS:
 Usage
 ===
 
-Use the management command in place of `runserver`. The following command will run all of the tests in your project (including the tests for Django itself), and then start the development server.
+Use the management command in place of `runserver`. The following command will run all of the tests in your project and then start the development server.
 
     python manage.py tdd
 
