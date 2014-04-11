@@ -12,7 +12,7 @@ Then add django-tdd to your INSTALLED_APPS:
 
     INSTALLED_APPS = {
       ...
-      'django-tdd',
+      'django_tdd',
     }
 
 Usage
